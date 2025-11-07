@@ -26,11 +26,13 @@ A multi-user drawing app where multiple users can draw simultaneously on the sam
 ## ⚙️ Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/collaborative-canvas.git
+   git clone https://github.com/Thanuja-2/collaborative-canvas.git
    cd collaborative-canvas
+
 2. Install dependencies:
    npm install
 3. Start the server:
    npm start
 4. Open in your browser:
+
    http://localhost:3000
