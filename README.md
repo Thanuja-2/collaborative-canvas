@@ -23,6 +23,11 @@ A multi-user drawing app where multiple users can draw simultaneously on the sam
 
 ---
 
+
+## 🌐 Live Demo
+https://collaborative-canvas-production-8650.up.railway.app
+---
+
 ## ⚙️ Setup Instructions
 1. Clone this repository:
    ```bash
@@ -36,3 +41,4 @@ A multi-user drawing app where multiple users can draw simultaneously on the sam
 4. Open in your browser:
 
    http://localhost:3000
+
