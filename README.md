@@ -25,8 +25,13 @@ A multi-user drawing app where multiple users can draw simultaneously on the sam
 
 
 ## 🌐 Live Demo
-https://collaborative-canvas-production-8650.up.railway.app
----
+
+<p>
+  <a href="https://collaborative-canvas-production-8650.up.railway.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
 
 ## ⚙️ Setup Instructions
 1. Clone this repository:
@@ -41,4 +46,5 @@ https://collaborative-canvas-production-8650.up.railway.app
 4. Open in your browser:
 
    http://localhost:3000
+
 
